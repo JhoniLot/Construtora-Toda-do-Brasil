@@ -95,7 +95,7 @@ img {
 }
 
 .text-light {
-    color: var(--color-light-accent);
+    color: var(--color-white) !important;
 }
 
 .text-gold {
@@ -148,6 +148,10 @@ img {
     font-size: 1.1rem;
     color: var(--color-gray);
     margin-bottom: 40px;
+}
+
+.bg-dark .section-desc {
+    color: rgba(255, 255, 255, 0.75);
 }
 
 /* Botões Modernos */
