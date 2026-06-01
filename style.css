@@ -1,18 +1,18 @@
 /* --------------------------------------------------
-   CONSTRUTORA TODA DO BRASIL S.A. - DESIGN SYSTEM
+   CONSTRUTORA SÃO PAULO - DESIGN SYSTEM
    -------------------------------------------------- */
 
 :root {
     /* Cores Corporativas */
-    --color-primary: #0B2545;       /* Azul Escuro Profundo (Confiança, Solidez) */
-    --color-secondary: #134074;     /* Azul Médio */
-    --color-accent: #C5A880;        /* Bronze / Ouro Mate (Sofisticação, Precisão) */
-    --color-accent-hover: #B5976F;  /* Dourado escurecido */
-    --color-dark: #081C33;          /* Fundo Escuro */
-    --color-light: #F4F6F9;         /* Off-white */
-    --color-light-accent: #EEF4F8;  /* Azul esbranquiçado */
+    --color-primary: #091A2F;       /* Azul Noturno Profundo (Confiança, Tradição) */
+    --color-secondary: #102A45;     /* Azul Médio Corporativo */
+    --color-accent: #D4AF37;        /* Ouro Brilhante Metálico (Tradição e Alto Padrão) */
+    --color-accent-hover: #C5A880;  /* Ouro Mate / Bronze */
+    --color-dark: #050E1A;          /* Fundo Noturno Escuro */
+    --color-light: #F3F4F6;         /* Off-white / Slate Light */
+    --color-light-accent: #E5E7EB;  /* Cinza Prata / Concrete Light */
     --color-white: #FFFFFF;
-    --color-gray: #64748B;
+    --color-gray: #6B7280;
     --color-danger: #EF4444;
     --color-success: #10B981;
 
