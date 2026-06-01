@@ -154,6 +154,10 @@ img {
     color: rgba(255, 255, 255, 0.75);
 }
 
+.bg-dark .section-title {
+    color: var(--color-white) !important;
+}
+
 /* Botões Modernos */
 .btn {
     display: inline-flex;
