@@ -1,16 +1,16 @@
 /* --------------------------------------------------
-   CONSTRUTORA SÃO PAULO - DESIGN SYSTEM
+   DANILO GARCIA IMÓVEIS - DESIGN SYSTEM
    -------------------------------------------------- */
 
 :root {
     /* Cores Corporativas */
-    --color-primary: #091A2F;       /* Azul Noturno Profundo (Confiança, Tradição) */
-    --color-secondary: #102A45;     /* Azul Médio Corporativo */
-    --color-accent: #D4AF37;        /* Ouro Brilhante Metálico (Tradição e Alto Padrão) */
+    --color-primary: #121212;       /* Velvet Charcoal (Luxo, Discrição, Alta Costura) */
+    --color-secondary: #1E1E1E;     /* Charcoal Médio */
+    --color-accent: #D4AF37;        /* Ouro Polido (Exclusividade e Alto Padrão) */
     --color-accent-hover: #C5A880;  /* Ouro Mate / Bronze */
-    --color-dark: #050E1A;          /* Fundo Noturno Escuro */
-    --color-light: #F3F4F6;         /* Off-white / Slate Light */
-    --color-light-accent: #E5E7EB;  /* Cinza Prata / Concrete Light */
+    --color-dark: #0A0A0A;          /* Fundo Preto Absoluto */
+    --color-light: #F9FAFB;         /* Off-white Nobre */
+    --color-light-accent: #F3F4F6;  /* Cinza Claro Suave */
     --color-white: #FFFFFF;
     --color-gray: #6B7280;
     --color-danger: #EF4444;
